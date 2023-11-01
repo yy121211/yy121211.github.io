@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Xi’an University of Technology](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I received the B.S. degree in Digital Media from  [Xi’an University of Technology](https://www.xaut.edu.cn/), Xi’an, China, in 2021. I'm currently pursuing the Master degree in Signal and Information Processing at Xi’an University of Technology. My current research interests include machine learning, scene text detection and recognition,cross modal retrieval.  
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qq_61363628?type=blog)
+[Email](2220820010@stu.xaut.edu.cn) / [Github](https://github.com/yy121211) / [Wechat](../images/weixin.jpg) / [CSDN](https://blog.csdn.net/qq_61363628?type=blog)
