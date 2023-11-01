@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Yao Zhuo(姚卓)"
+description              : &description "Second-year master's student from xaut"
 url                      : https://yy121211.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yy121211/yy121211.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yao Zhuo(姚卓)"
-  avatar           : "profile.png"
+  avatar           : "yaozhuo.png"
   bio              : "Second-year master's student from xaut"
   location         : "Xi'an"
   employer         :
